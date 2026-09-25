@@ -1,3 +1,5 @@
+> **CareerPilot v2:** The upgraded company watchlist, explainable job dashboard, and optional email/WhatsApp alerts are in [v2/](v2/). For setup and Streamlit deployment, see the [v2 guide](v2/DEPLOY.md).
+
 # CareerPilot AI
 
 CareerPilot AI is a competition-ready Streamlit MVP for personalized job discovery. It uses a LangGraph career manager to coordinate specialist agents that turn a resume and preferences into role recommendations, source-agnostic job matches, a tailored resume draft, skill-gap actions, interview prep, and a human-approved application package.
